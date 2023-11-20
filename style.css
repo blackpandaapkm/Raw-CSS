@@ -1,0 +1,56 @@
+h1{
+    color:chocolate
+}
+p{
+    color: yellowgreen;
+}
+/* h1,p{
+    color:rgb(30, 210, 114)
+} */
+.heading_line{
+    color: green;
+    font-size: 150px;
+    background-color: rgb(161, 7, 7);
+}
+#id1{
+    color: red;
+    font-weight: bold;
+}
+#indiv h1{
+    color: aqua;
+}
+#indiv p{
+    color:rgb(42, 67, 165);
+}
+.font{
+    color: rgb(122, 226, 43);
+    font-family: 'Roboto', sans-serif;
+    font-style: italic;
+    font-weight: bold;
+}
+
+   
+/* universal selector  */
+/* *{
+    background-color: red;
+} */
+#indiv1{
+    background-color: blue;
+}
+#indiv2{
+    background-image: url("photo2.png");
+    color:sienna;
+    
+}
+#indiv3{
+    background-image: url("photo2.png");
+    background-repeat: repeat-x;
+    
+}
+#indiv4{
+    background-image: url("photo2.png");
+    background-repeat: no-repeat;
+    background-position: right top;
+    margin-right: 250px;
+    
+}
